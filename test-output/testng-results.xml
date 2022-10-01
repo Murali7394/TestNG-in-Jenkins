@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T11:08:41 IST" name="Default suite" finished-at="2022-10-01T11:11:21 IST" duration-ms="159915">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T11:08:41 IST" name="Default test" finished-at="2022-10-01T11:11:21 IST" duration-ms="159915">
+      <class name="com.testNG.Multipleword">
+        <test-method signature="setUp()[pri:0, instance:com.testNG.Multipleword@934b6cb]" started-at="2022-10-01T11:08:41 IST" name="setUp" finished-at="2022-10-01T11:11:19 IST" duration-ms="157730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.testNG.Multipleword -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
