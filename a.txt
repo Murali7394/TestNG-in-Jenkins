@@ -1,1 +1,7 @@
 hai da learning how to do pull the changes commited  in repository.
+
+
+
+machi i have learnt how to pull when changes commited in the  Remote repository similar to the above line.
+
+now i am going to commit changes int the local repository and going to commit the changes to the remote repository
